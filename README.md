@@ -21,7 +21,7 @@ Desenvolvi esta aplicação focando em entregar uma interface com alto desempenh
 - JavaScript (Vanilla)
 - Fetch API
 
-##Imagem do projeto
+## Imagem do projeto
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f698e354-c71c-4e11-a01d-e267f6b69643" />
 
 ## Pré-requisitos e Como Rodar
